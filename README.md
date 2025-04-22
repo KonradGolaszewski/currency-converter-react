@@ -1,4 +1,4 @@
-# Simply currency converter.
+# Simply currency converter in PL language
 
 ## Instruction
 - Choose currency
@@ -15,7 +15,7 @@
 ## Demo
 
 https://konradgolaszewski.github.io/currency-converter-react/
-![DEMO](https://github.com/user-attachments/assets/4b022761-b0cc-4a70-99c4-9fd904767188)
+![image](https://github.com/user-attachments/assets/846f9efb-0a4e-4a77-8679-a21a495114dc)
 
 # Getting Started with Create React App
 
